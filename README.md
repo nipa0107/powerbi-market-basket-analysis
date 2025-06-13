@@ -1,5 +1,7 @@
 # Power BI market basket analysis 
 
+![market-analysis](market-analysis.png)
+
 This work is part of the course **CP363107: Data Science for Marketing**.
 
 This work includes:
